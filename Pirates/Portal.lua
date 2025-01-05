@@ -36,4 +36,4 @@ getgenv().Setting = {
         }
     }
 }
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ghost-1198/AutoBounty/main/AutoBounty.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NGUYENVUDUY1/Bounty/main/HiruHub.lua%22%29%29%28%29"))()
